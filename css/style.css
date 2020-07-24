@@ -376,7 +376,7 @@ body.lock {
 .services__figure-1 {
   width: 200px;
   height: 80%;
-  background-image: url(img/mountain-1.jpg);
+  background-image: url(../img/mountain-1.jpg);
   align-items: center;
   display: flex;
   justify-content: flex-end; }
