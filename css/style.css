@@ -376,7 +376,7 @@ body.lock {
 .services__figure-1 {
   width: 200px;
   height: 80%;
-  background-image: url(/img/mountain-1.jpg);
+  background-image: url(img/mountain-1.jpg);
   align-items: center;
   display: flex;
   justify-content: flex-end; }
@@ -710,8 +710,7 @@ body.lock {
     text-align: center; } }
 @media screen and (max-width: 575.98px) {
   .container {
-    max-width: 310px;
-    margin: 0 auto; }
+    max-width: 310px; }
 
   .hero__title {
     font-size: 35px; }
